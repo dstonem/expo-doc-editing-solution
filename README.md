@@ -8,21 +8,25 @@ Click on 'Open Documents' button to load documents from phone's file system:
 
 ## Select Your Document
 Click the image or text to open the document in another app
+
 <img src="https://user-images.githubusercontent.com/32003549/111241628-e7e3ed00-85d3-11eb-92da-f98cc628e6ff.png" width="350" >
 
 
 ## Select Your Desired Document Editor
 In this walkthrough Microsoft Word is the editor of choice
+
 <img src="https://user-images.githubusercontent.com/32003549/111241705-0813ac00-85d4-11eb-8acc-b167ef9d1d76.png" width="350" >
 
 
 ## Save a Copy of Your Document
 This makes it writeable/editable
+
 <img src="https://user-images.githubusercontent.com/32003549/111241754-2679a780-85d4-11eb-820d-0e81b4281434.png" width="350" >
 
 
 ## Change the Name of Your Document
 This is a new copy of the document, so you may choose your naming conventions - either save a new version with a timestamp or override your existing file of the same name.
+
 <img src="https://user-images.githubusercontent.com/32003549/111241800-3d1ffe80-85d4-11eb-9b65-5cbb5d98dddb.png" width="350" >
 
 
