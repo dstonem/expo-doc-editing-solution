@@ -1,0 +1,12 @@
+{
+  "name": "document-editing-browserAsync",
+  "displayName": "document-editing-browserAsync",
+  "expo": {
+    "name": "document-editing-browserAsync",
+    "slug": "document-editing-browserAsync",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
