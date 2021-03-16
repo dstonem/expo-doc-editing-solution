@@ -2,7 +2,7 @@
 interim solution for connecting any expo app to document editors using only phone's local file system
 
 ## Home Screen
-![image](https://user-images.githubusercontent.com/32003549/111241450-8a4fa080-85d3-11eb-8bfb-ee0e2c1e63af.png width="150")
+<img src="https://user-images.githubusercontent.com/32003549/111241450-8a4fa080-85d3-11eb-8bfb-ee0e2c1e63af.png width="150" >)
 
 Click on 'Open Documents' button to load documents from phone's file system:
 ![image](https://user-images.githubusercontent.com/32003549/111241560-c84cc480-85d3-11eb-9fa5-5e4d6baccff6.png | width=100)
